@@ -135,10 +135,24 @@ h4 {
     font-family: 'Open Sans', sans-serif;
 }
 
+.maintitle {
+    
+    margin-top: 20%;
+
+}
+
+.ytblock{
+max-width: 450px;
+height: 254px; 
+float: none; 
+clear: both; 
+margin: 0 auto;
+}
+
 .title {
     font-size: 2.2em;
     font-weight: 300;
-    margin-top: 25%;
+    
     color: #fff;
     letter-spacing: 5px;
 }
@@ -502,7 +516,7 @@ nav.top-bar {
     }
     .title {
         font-size: 2.0em;
-        margin-top: 20%;
+       
     }
    
 }
@@ -516,8 +530,10 @@ nav.top-bar {
     }
     .title {
         font-size: 2.0em;
-        margin-top: 20%;
+       
     }
+
+
    
 }
 
@@ -532,9 +548,13 @@ nav.top-bar {
     }
     .title {
         font-size: 1.6em;
-        margin-top: 20%;
+        
     }
     
+    .maintitle {
+     margin-top:40%
+       
+    }
     .myrow{
     background:none;
     }
@@ -550,7 +570,7 @@ nav.top-bar {
     }
     .title {
         font-size: 1.5em;
-        margin-top: 30%;
+       
     }
 }
 
