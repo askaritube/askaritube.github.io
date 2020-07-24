@@ -138,7 +138,7 @@ h4 {
 .title {
     font-size: 2.2em;
     font-weight: 300;
-    margin-top: 17%;
+    margin-top: 25%;
     color: #fff;
     letter-spacing: 5px;
 }
@@ -458,7 +458,7 @@ nav.top-bar {
 .arrow {
     text-align: center;
     margin: 28% 0;
-    color: #99cc33;
+    color: #fff;
     position: relative;
     bottom: -5em;
 }
